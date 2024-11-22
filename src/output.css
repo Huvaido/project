@@ -553,3 +553,138 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.absolute {
+  position: absolute;
+}
+
+.left-\[\] {
+  left: ;
+}
+
+.left-\[500px\] {
+  left: 500px;
+}
+
+.left-\[100px\] {
+  left: 100px;
+}
+
+.left-\[200px\] {
+  left: 200px;
+}
+
+.left-\[400px\] {
+  left: 400px;
+}
+
+.left-\[700px\] {
+  left: 700px;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[\] {
+  height: ;
+}
+
+.h-\[150px\] {
+  height: 150px;
+}
+
+.h-\[100px\] {
+  height: 100px;
+}
+
+.h-\[58px\] {
+  height: 58px;
+}
+
+.h-\[18\.28px\] {
+  height: 18.28px;
+}
+
+.w-\[1200px\] {
+  width: 1200px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[157px\] {
+  width: 157px;
+}
+
+.w-\[24px\] {
+  width: 24px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.gap-5 {
+  gap: 1.25rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
+}
+
+.gap-28 {
+  gap: 7rem;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[29px\] {
+  border-radius: 29px;
+}
+
+.bg-\[\#F78434\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 132 52 / var(--tw-bg-opacity, 1));
+}
+
+.text-\[54px\] {
+  font-size: 54px;
+}
+
+.text-\[\#F78434\] {
+  --tw-text-opacity: 1;
+  color: rgb(247 132 52 / var(--tw-text-opacity, 1));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
